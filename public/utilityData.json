@@ -1,0 +1,46 @@
+[
+    {
+        "id": "00",
+        "name": "禅道",
+        "url": "http://192.168.0.200/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "description": "项目管理"
+    },
+    {
+        "id": "01",
+        "name": "网盘",
+        "url": "http://192.168.0.205:8088/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "description": "开发工具及数据库工具等请从网盘安装包文件夹下下载安装，公司对版本进行统一管理"
+    },
+    {
+        "id": "02",
+        "name": "conference",
+        "url": "http://192.168.0.200:8090/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "description": "xxxxxxxxxx"
+    },
+    {
+        "id": "03",
+        "name": "gitlab",
+        "url": "https://192.168.0.205/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "description": "xxxxxxxxxx"
+    }
+]

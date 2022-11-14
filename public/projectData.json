@@ -1,0 +1,100 @@
+[
+    {
+        "id": "00",
+        "name": "基于数据挖掘故障检测系统",
+        "url": "http://192.168.0.213:82/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "version": " v1.0.0",
+        "status": "生产",
+        "dev": "丛赫曦",
+        "manager": "嫣红枚"
+    },
+    {
+        "id": "01",
+        "name": "数据资源管理系统",
+        "url": "http://192.168.0.213:8089/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "version": " v1.0.0",
+        "status": "生产",
+        "dev": "张建平、葛彦生",
+        "manager": "张建平"
+    },
+    {
+        "id": "02",
+        "name": "研发中心",
+        "url": "http://192.168.0.213:8086/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "version": " v1.0.0",
+        "status": "生产",
+        "dev": "丛赫曦、朱肖伟",
+        "manager": "王礼祥"
+    },
+    {
+        "id": "03",
+        "name": "EBDP单独部署",
+        "url": "http://192.168.0.213:81/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "version": " v1.0.0",
+        "status": "生产",
+        "dev": "张建平、葛彦生",
+        "manager": "张建平"
+    },
+    {
+        "id": "04",
+        "name": "基于机理的二浮陀螺异常检测系统",
+        "url": "http://192.168.0.213:8001/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "version": " v1.0.0",
+        "status": "生产",
+        "dev": "丛赫曦、王嗣鑫",
+        "manager": "王嗣鑫"
+    },
+    {
+        "id": "05",
+        "name": "基于规则异常检测系统",
+        "url": "http://192.168.0.213:8087/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "version": " v1.0.0",
+        "status": "生产",
+        "dev": "朱肖伟",
+        "manager": "朱肖伟"
+    },
+    {
+        "id": "06",
+        "name": "航天器在轨数据评估与应用系统",
+        "url": "http://192.168.0.213:8091/",
+        "imgUrl": "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "srcList": [
+            "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+            "https://fuss10.elemecdn.com/1/8e/aeffeb4de74e2fde4bd74fc7b4486jpeg.jpeg"
+        ],
+        "version": " v1.0.0",
+        "status": "生产",
+        "dev": "胡舒立、丛赫希、杨悦清、严军",
+        "manager": "张雨佳"
+    }
+]
